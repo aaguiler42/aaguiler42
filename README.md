@@ -11,7 +11,7 @@
 <h2 align="center"> 🔧 Tech Stack:</h2>
 <p align="center">
     LOGOS, IN PROGRESS NODE.JS TYPESCRIPT REACT
-    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 <p align="center">
     ExpressJS, Fastify, NextJS, JavaScript, Git / Github, Azure, Docker, C, C++.
