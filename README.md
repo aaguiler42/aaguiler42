@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2 align="center"> 🔭 Tech Stack:</h2>
+<h2 align="center"> 🔧 Tech Stack:</h2>
 <p align="center">
   LOGOS, IN PROGRESS NODE.JS TYPESCRIPT REACT
 </p>
@@ -16,6 +16,8 @@
     ExpressJS, Fastify, NextJS, JavaScript, Git / Github, Azure, Docker, C, C++.
 </p>
 
+<h2 align="center"> 🚀 Hackaton's Projects:</h2>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-Science-Hub)](https://github.com/aaguiler42/Open-Science-Hub)
 <hr>
 
 <!-- Footer -->
