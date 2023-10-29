@@ -18,7 +18,7 @@
     ExpressJS, Fastify, NextJS, JavaScript, Git / Github, Azure, Docker, C, C++.
 </p>
 
-<br>
+<br/>
 
 
 <h2 align="center"> 🚀 Hackaton's Projects  ⬇️ </h2>
@@ -45,7 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aaguiler&show_icons=true" />
 </picture>
 
-<br>
+<br/>
 
 <!-- Footer -->
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
