@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Tech Stack:</h2>
 <p align="center">
   LOGOS, IN PROGRESS NODE.JS TYPESCRIPT REACT
 </p>
@@ -16,6 +16,7 @@
     ExpressJS, Fastify, NextJS, JavaScript, Git / Github, Azure, Docker, C, C++.
 </p>
 
+<hr>
 
 <!-- Footer -->
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
