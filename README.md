@@ -24,22 +24,22 @@
 <h2 align="center"> 🚀 Hackaton's Projects  ⬇️ </h2>
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-Science-Hub&icon_color=E9BC02&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-Science-hub&icon_color=E9BC02&theme=dark"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-Science-Hub&icon_color=E9BC02"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-Science-hub&icon_color=E9BC02"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=aaguiler&show_icons=true" />
 </picture>
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Leinn-Hub&icon_color=E9BC02&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Leinn-hub&icon_color=E9BC02&theme=dark"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Leinn-Hub&icon_color=E9BC02"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Leinn-hub&icon_color=E9BC02"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=aaguiler&show_icons=true" />
