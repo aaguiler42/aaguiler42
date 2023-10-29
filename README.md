@@ -12,7 +12,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Typescript%20-%232F74C0.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React%20-%235ED3F3.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React%20-%235ED3F3.svg?&style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 <p align="center">
     ExpressJS, Fastify, NextJS, JavaScript, Git / Github, Azure, Docker, C, C++.
