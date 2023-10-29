@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/React%20-%235ED3F3.svg?&style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 <p align="center">
-    ExpressJS, Fastify, NextJS, JavaScript, Git / Github, Azure, Docker, C, C++.
+    ExpressJS, Fastify, NextJS, JavaScript, SQL, Git / Github, Azure, Docker, C, C++.
 </p>
 
 <hr>
