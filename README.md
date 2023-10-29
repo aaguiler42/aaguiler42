@@ -17,7 +17,12 @@
 </p>
 
 <h2 align="center"> 🚀 Hackaton's Projects:</h2>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-Science-Hub)](https://github.com/aaguiler42/Open-Science-Hub/)
+<picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-Science-Hub"
+        media="(prefers-color-scheme: dark)"
+    />
+</picture>
 
 <hr>
 
